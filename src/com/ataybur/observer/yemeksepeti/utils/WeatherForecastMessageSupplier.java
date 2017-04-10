@@ -1,7 +1,8 @@
-package com.ataybur.observer.yemeksepeti.pojo;
+package com.ataybur.observer.yemeksepeti.utils;
 
 import com.ataybur.observer.yemeksepeti.constants.Constants;
 import com.ataybur.observer.yemeksepeti.interfaces.MessageSupplier;
+import com.ataybur.observer.yemeksepeti.pojo.WeatherForecastDto;
 
 public class WeatherForecastMessageSupplier implements MessageSupplier<WeatherForecastDto> {
 

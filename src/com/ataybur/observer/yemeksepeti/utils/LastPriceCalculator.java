@@ -1,6 +1,8 @@
-package com.ataybur.observer.yemeksepeti.pojo;
+package com.ataybur.observer.yemeksepeti.utils;
 
 import java.util.function.Function;
+
+import com.ataybur.observer.yemeksepeti.pojo.YemekSepetiDto;
 
 public class LastPriceCalculator {
 	private YemekSepetiDto instance;

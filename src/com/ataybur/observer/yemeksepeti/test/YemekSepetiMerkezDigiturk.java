@@ -5,8 +5,8 @@ import com.ataybur.observer.yemeksepeti.observers.IPhoneDisplay;
 import com.ataybur.observer.yemeksepeti.observers.WebPageDisplay;
 import com.ataybur.observer.yemeksepeti.observers.abstracts.MobilCihazlarDisplay;
 import com.ataybur.observer.yemeksepeti.pojo.YemekSepetiDto;
-import com.ataybur.observer.yemeksepeti.pojo.YemekSepetiMessageSupplier;
 import com.ataybur.observer.yemeksepeti.subject.YemekSepetiData;
+import com.ataybur.observer.yemeksepeti.utils.YemekSepetiMessageSupplier;
 
 public class YemekSepetiMerkezDigiturk {
 
